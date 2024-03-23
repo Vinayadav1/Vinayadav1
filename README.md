@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<h3 align="center">#30DaysReactChallenge is live on X and LinkedIn -- Join me there</h3>
+<h3 align="center">#30DaysReactChallenge is live on X and LinkedIn -- Join me there 🥳</h3>
 <h1 align="center">Hi 👋, I'm Vinay Yadav</h1>
 
 ## 💫 About Me: 
