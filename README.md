@@ -2,8 +2,9 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <h1 align="center">Hi 👋, I'm Vinay Yadav</h1>
 
+## 💫 About Me: 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-# 💫 About Me: <br><br>
+
 🔭 I’m currently working on equConneqt<br><br>🌱 I’m currently learning React and Java<br><br>👨‍💻 All of my projects are available at https://github.com/Vinaysalempur45<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me vinaysalempur45@gmail.com<br><br>📄 Know about my experiences https://65c0bf1b771400009b32c0b5--leafy-gecko-dc8072.netlify.app/ <br><br> ⚡ I think I'm funny but, I'm not.🥱
 
 
